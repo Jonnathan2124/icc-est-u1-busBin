@@ -31,7 +31,7 @@ public class App {
         sortByEdad(personas);
 
         System.out.println("Ingrese el nombre de la Persona que desea Buscar: ");
-        //int posicion = scanner.nextLine();
+        String nombreBusc = scanner.nextLine();
 
         scanner.close();
 
